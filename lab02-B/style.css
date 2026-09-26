@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+svg {
+  background-color: #fafafa;
+  border: 1px solid #ccc;
+  margin-bottom: 15px;
+  display: block;
+}
