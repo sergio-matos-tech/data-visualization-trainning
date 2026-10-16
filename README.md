@@ -10,7 +10,15 @@ Repository dedicated to practical exercises, laboratory activities, and study ma
 │   ├── index.html
 │   ├── script.js
 │   └── style.css
-└── lab02-B/          # Practice 02 - Part B: Appliance consumption chart
+├── lab02-B/          # Practice 02 - Part B: Appliance consumption chart
+│   ├── index.html
+│   ├── script.js
+│   └── style.css
+├── lab03-A/          # Practice 03 - Part A: Monthly sales and annual averages
+│   ├── index.html
+│   ├── script.js
+│   └── style.css
+└── lab03-B/          # Practice 03 - Part B: Streaming platform access heatmap
     ├── index.html
     ├── script.js
     └── style.css
@@ -29,6 +37,18 @@ Scatter plot visualization comparing:
 - Energy consumption (kWh) vs. usage hours.
 - Visual threshold lines for consumption (50 kWh) and usage (100h).
 - Color-coded indicators distinguishing high vs. normal consumption.
+
+### Lab 03-A: Monthly Sales and Annual Averages
+Bar chart and reference line visualization showing monthly sales from 2013 to 2016:
+- Monthly sales bars color-coded by month, with highlights for global min and max sales.
+- Annual average lines and dashed separators delineating each year.
+- D3.js data binding with legends and value labels.
+
+### Lab 03-B: Streaming Platform Access Heatmap
+Heatmap matrix visualizing access patterns across the week:
+- Days of the week vs. time slots (08h, 12h, 18h, 22h).
+- Sequential color scale mapping access intensity.
+- Highlight styling for peak traffic periods (values exceeding threshold).
 
 ## 🚀 How to Run
 
